@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "18137871142",
+    "firebase_url": "https://chaton-1d3b6.firebaseio.com",
+    "project_id": "chaton-1d3b6",
+    "storage_bucket": "chaton-1d3b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18137871142:android:16648449068005bf",
+        "android_client_info": {
+          "package_name": "shivam.com.chaton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18137871142-1gtmr8ds91gu6t5do6bc8ri36vb7gd4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "shivam.com.chaton",
+            "certificate_hash": "26FDA5307DB4330F52BF472679EBB3BD7F8AB3EE"
+          }
+        },
+        {
+          "client_id": "18137871142-vgnp8j6sobmc5cofbn2rsvfa5tdut949.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBry0QrkFFttrmScYTa-GaECWTERXzAP8M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18137871142-vgnp8j6sobmc5cofbn2rsvfa5tdut949.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
